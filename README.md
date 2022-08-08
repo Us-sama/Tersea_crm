@@ -54,5 +54,7 @@ Run the database seeder and you're done
 
     php artisan migrate:refresh
     
-i hope you like the work and always i can do better.
+    
+***Note*** : créer un compte sur mailtrap.io et configurer le dans le fichier .env pour une experience fluide pour tester les emails.
+i hope you like the work and i can always  do better.
 Thanks a lot for your time :)   
