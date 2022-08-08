@@ -53,6 +53,9 @@ Run the database seeder and you're done
 ***Note*** : It's recommended to have a clean database before seeding. You can refresh your migrations at any point to clean the database by running the following command
 
     php artisan migrate:refresh
+
+admin: flahioussama1@gmail.com
+tous les mots de passes sont : Oussama123
     
     
 ***Note*** : créer un compte sur mailtrap.io et configurer le dans le fichier .env pour une experience fluide pour tester les emails.
